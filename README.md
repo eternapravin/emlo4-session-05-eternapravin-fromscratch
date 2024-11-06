@@ -1,7 +1,7 @@
 ## EMLO4 session-05 Assignment - Pytorch Lightning - II (created from scratch)
 
 ### Contents
-- [Requirements] (#requirements)
+- [Requirements]
 - [Step-by-step-Approach-in-Development]
 - [Observation]
 - [Results]
@@ -9,8 +9,8 @@
 ### Mandatory Requirements
 - Start from the repository of previous Session
 - Start using Cursor!
-- Create a eval.pyLinks to an external site. with its config that tests the model given a checkpoint
-- Integrate the infer.pyLinks to an external site. you made in last session with hydra
+- Create a eval.py with its config that tests the model given a checkpoint
+- Integrate the infer.py you made in last session with hydra
 - Make sure to integrate codecov in your repo, should be atleast 70%
 - Push the Docker Image to GHCR, should show up in Packages section of your repo
 
