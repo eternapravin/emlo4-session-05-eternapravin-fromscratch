@@ -1,7 +1,7 @@
 ## EMLO4 session-05 Assignment - Pytorch Lightning - II (created from scratch)
 
 ### Contents
-- [Requirements] 
+- [Requirements] (#requirements)
 - [Step-by-step-Approach-in-Development]
 - [Observation]
 - [Results]
@@ -20,5 +20,8 @@
 - Model Checkpoint, Model Logs, Config used, should be presented as artifacts
 
 ### Step-by-step Approach in Development
+
+
+### Results
 
 
