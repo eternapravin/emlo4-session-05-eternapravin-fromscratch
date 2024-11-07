@@ -21,6 +21,34 @@
 
 ### Step-by-step Approach in Development
 
+Creation of the Docker file based on the layering as given below:
+1) The first should be the linux image (particular version)
+2) Second should be the UV libraries (particular version)
+3) Third should be the Python libraries (particular version)
+4) Fourth should be Torch libraries like Pytorch, torch vision, Pytorch lightning
+5) Fifth should be the configurations and mandatory dependency libraries like (particular version)
+    Hydra
+    Black
+    loguru
+    Rich
+    tensorboard  
+    coverage
+    Pytest
+    Torch metrics
+    Fine tuning
+    Profiler
+    Netron
+    TQDM
+
+6) Sixth should be configurations Project dependencies like timm, or gdown etc.
+7) Seventh should be 
+
+
+    
+
+
+
+
 
 ### Results
 
